@@ -7,5 +7,4 @@ import TemplatePage from "./components/TemplatePage.vue";
 </template>
 
 <style scoped>
-
 </style>
